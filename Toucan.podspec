@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors = { 'Gavin Bunney' => 'gavin@bunney.net.au' }
   s.source = { :git => 'https://github.com/gavinbunney/Toucan.git', :tag => s.version }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
   s.source_files = 'Source/*.swift'
 
